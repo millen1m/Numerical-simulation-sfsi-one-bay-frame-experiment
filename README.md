@@ -66,7 +66,7 @@ Image from Millen (2016) pg 97
 
 ### Parameters used in numerical model
 
-The frame structure was modelled in Ruaumoko3D using the soil-foundation macro-element from Millen et al. (20)
+The frame structure was modelled in Ruaumoko3D using the soil-foundation macro-element from Millen et al. (2017)
 
 Note: The superstructure mass and beam properties were changed throughout the experimental campaign.
 
